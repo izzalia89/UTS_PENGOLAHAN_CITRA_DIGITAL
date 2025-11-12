@@ -1,0 +1,12 @@
+Rata-rata nilai piksel:
+Original : 126.08
+LPF      : 126.07
+HPF      : 5.05
+BPF      : 126.10
+True
+
+Soal no 2 Konvolusi Filter (LPF, HPF, BPF) mengubah struktur spasial citra untuk mengatur ketajaman dan noise.
+- LPF membuat citra lebih halus dengan mereduksi noise.
+- HPF menonjolkan tepi dan kontras citra.
+- BPF menajamkan citra dengan keseimbangan antara LPF dan HPF.
+- Dalam domain frekuensi: LPF melewatkan frekuensi rendah, HPF melewatkan tinggi, dan BPF melewatkan frekuensi menengah.

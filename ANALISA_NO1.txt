@@ -1,0 +1,10 @@
+Rata-rata nilai keabuan:
+Asli      : 126.08
+Negatif   : 128.92
+Logaritmik: 206.43
+
+Kesimpulan:
+Soal no 1 mengubah distribusi nilai piksel untuk menonjolkan detail tertentu,
+- Citra negatif membalik nilai keabuan, menonjolkan detail pada area terang.
+- Citra logaritmik memperjelas detail di area gelap dan menekan area terang.
+- Negatif digunakan untuk melihat struktur pada area terang, sedangkan logaritmik untuk memperbaiki kontras di area gelap.
